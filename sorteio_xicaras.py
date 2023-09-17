@@ -33,3 +33,5 @@ print(f'O ganhador 1 é: {ganhadores[0]} !!!')
 print('\n', 60*'=', '\n')
 print(f'O ganhador 2 é: {ganhadores[1]} !!!')
 print('\n', 60*'=')
+
+print(candidatos.values())
